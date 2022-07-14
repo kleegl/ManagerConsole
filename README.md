@@ -1,2 +1,2 @@
 # Manager Console
-Программа для исследования доходов студентов, преподавателей и технических работников университета. <br />
+A program for income research of students, teachers and technical staff of the university. <br />
